@@ -1,5 +1,5 @@
 import { Head } from "$fresh/runtime.ts";
-import Counter from "../islands/Counter.tsx";
+
 import { Handlers, PageProps } from "https://deno.land/x/fresh@1.1.5/server.ts";
 import { listPosts } from "../utils/posts.ts";
 import { Post } from "../types.d.ts";
